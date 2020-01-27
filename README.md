@@ -1,4 +1,4 @@
 # Hubitat
-Hubitat Elevation Apps and Drivers
+Static COPY OF THE EXCELLENT DRIVERS AND APPS FROM OGIEWON
 
-Some more details about these Apps and Drivers can be found here - http://hubitatapps.shoutwiki.com/wiki/User:Ogiewon
+See: https://github.com/ogiewon/Hubitat
